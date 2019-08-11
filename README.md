@@ -1,5 +1,5 @@
 # CSE634-ClassificationProject
-Classification Project for CSE634 - Team 12
+ Classifying Types of Rocks on Bakery Dataset using Decision Tree and Neural Network
 
 
 # Team Members
